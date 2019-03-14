@@ -1,2 +1,0 @@
-# CAN
-Distributed Systems Project
